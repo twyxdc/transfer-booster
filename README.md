@@ -1,6 +1,7 @@
 <h1 align="center"> 
  Tranfer Booster DiscordJS
 </h1>
+
 ## 💻 Como usar
 
 >* Para rodar essa aplicação você precisará ter instalado [Node.js](https://nodejs.org/en/download/)
