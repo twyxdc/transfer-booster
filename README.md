@@ -11,7 +11,7 @@
 # Instale as Packages
 $ npm install 
 
-# Inicie a sua aplicaçõo
+# Inicie a sua aplicação
 $ npm run start
 ```
 
